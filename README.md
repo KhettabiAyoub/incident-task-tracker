@@ -23,7 +23,7 @@ This project demonstrates authentication, protected routes, CRUD operations, fil
 🔄 Axios interceptor for automatic token handling
 
 <h2>🛠 Tech Stack</h2>
-Backend
+<h3>Backend</h3>
 
 Java 17+
 
@@ -39,7 +39,7 @@ PostgreSQL (or H2)
 
 Maven
 
-Frontend
+<h3>Frontend</h3>
 
 React
 
@@ -76,16 +76,26 @@ Authorization: Bearer <token>
 If a 401 occurs → token is removed and user is redirected to login.
 
 <h2>📡 API Endpoints</h2>
-Auth
+<h3>Auth</h3>
+
 POST /auth/register
+
 POST /auth/login
-Tickets
+
+<h3>Tickets</h3>
+
 GET    /api/tickets/search
+
 POST   /api/tickets
+
 PUT    /api/tickets/{id}
+
 DELETE /api/tickets/{id}
 
-All /api/** endpoints are secured.
+
+
+=> All /api/** endpoints are secured.
+
 
 <h2>⚙️ Getting Started</h2>
 1️⃣ Backend
