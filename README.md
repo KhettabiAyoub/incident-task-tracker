@@ -51,16 +51,23 @@ Axios
 
 <h2>📂 Project Structure</h2>
 backend/
+
 frontend/
 
-Frontend structure:
+<h4>Frontend structure:</h4>
 
 src/
+
   api/
+  
   components/
+  
   types/
+  
   utils/
+  
   App.tsx
+  
 <h2>🔐 Authentication Flow</h2>
 
 User logs in or registers.
