@@ -123,12 +123,17 @@ Runs on:
 http://localhost:5173
 <h2>🖼 Screenshots</h2>
 
-(Add screenshots here once deployed)
+### Login
+![Login](images/login.png)
 
-Example:
+### Dashboard Overview
+![Dashboard Overview](images/dashboard-overview.png)
 
-/screenshots/login.png
-/screenshots/dashboard.png
+### Tickets Table
+![Tickets Table](images/dashboard-tickets.png)
+
+### Create Ticket
+![Create Ticket](images/create-ticket.png)
 
 <h2>📌 What This Project Demonstrates</h2>
 
