@@ -105,24 +105,21 @@ DELETE /api/tickets/{id}
 
 
 <h2>⚙️ Getting Started</h2>
-1️⃣ Backend
-```bash
-cd backend
-mvn clean install
-mvn spring-boot:run
-```
+ <h3>1️⃣ Backend</h3>
 
+ cd backend <br/>
+mvn clean install <br/>
+mvn spring-boot:run <br/>
+</br>
 Runs on:
-
 http://localhost:8080
-2️⃣ Frontend
-cd frontend
-npm install
-npm run dev
 
-Runs on:
-
-http://localhost:5173
+ <h3>2️⃣ Frontend</h3>
+cd frontend <br/>
+npm install <br/>
+npm run dev <br/>
+<br/>
+Runs on: http://localhost:5173
 
 <h2>🎥 Demo Video</h2>
 
