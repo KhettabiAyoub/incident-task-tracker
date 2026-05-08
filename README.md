@@ -106,9 +106,11 @@ DELETE /api/tickets/{id}
 
 <h2>⚙️ Getting Started</h2>
 1️⃣ Backend
+```bash
 cd backend
 mvn clean install
 mvn spring-boot:run
+```
 
 Runs on:
 
