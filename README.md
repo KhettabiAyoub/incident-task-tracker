@@ -121,6 +121,11 @@ npm run dev
 Runs on:
 
 http://localhost:5173
+
+<h2>🎥 Demo Video</h2>
+
+A short demonstration of the project:
+
 <h2>🖼 Screenshots</h2>
 
 ### Login
