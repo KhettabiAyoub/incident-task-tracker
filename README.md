@@ -136,9 +136,6 @@ A short demonstration of the project:
 ### Tickets Table
 ![Tickets Table](images/dashboard-tickets.png)
 
-### Create Ticket
-![Create Ticket](images/create-ticket.png)
-
 <h2>📌 What This Project Demonstrates</h2>
 
 Clean component architecture
