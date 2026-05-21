@@ -123,7 +123,7 @@ Runs on: http://localhost:5173
 
 <h2>🎥 Demo Video</h2>
 
-A short demonstration of the project:
+A short demonstration of the project: https://youtu.be/qgIezfJyrwM
 
 <h2>🖼 Screenshots</h2>
 
